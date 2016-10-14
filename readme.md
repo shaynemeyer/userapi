@@ -1,5 +1,5 @@
 # userapi
-A user api using koajs with Nodejs.
+A user api using koajs with Nodejs and MongoDB.
 
 ## getting started
 
@@ -13,3 +13,4 @@ npm start
 ```
 npm test
 ```
+
