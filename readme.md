@@ -50,7 +50,7 @@ show dbs
 ## Create new database
 ``` 
 use users
-db.users.save({name:"Shayne",age:"44",height:"70"})
+db.users.save({name:"Johnny",age:"55",height:"50"})
 ```
 ## Query new database
 ```
@@ -58,7 +58,7 @@ db.users.find()
 ```
 ## delete
 ```
-db.users.remove({username:"shayne"})
+db.users.remove({username:"johnny"})
 ```
 ## Update
 ```
